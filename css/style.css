@@ -192,12 +192,12 @@ footer hr{
     border-color: rgb(211,211,211);
 }
 .footer-top{
-    padding: 5px 0 30px;
+    padding: 5px 0;
     color: rgb(114,137,218);
+    border-bottom: 2px rgb(211,211,211) solid;
 }
 
 .footer-link{
-    min-height: 400px;
     padding: 60px;
 }
 
