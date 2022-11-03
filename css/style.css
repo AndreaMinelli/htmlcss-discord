@@ -233,14 +233,8 @@ footer hr{
 }
 
 .footer-bottom-link{
-    background-color: rgb(127,255,212);
-    min-height: 50px;
+    height: 35px;
+    margin-bottom: 30px;
     justify-content: space-between;
-}
-
-.footer-bottom a{
-    padding: 3px 7px;
-    background-color: rgb(255,182,193);
-    text-decoration: none;
-    color: black;
+    line-height: 25px;
 }
