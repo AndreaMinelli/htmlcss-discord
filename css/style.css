@@ -182,6 +182,18 @@ h3{
     margin: 0 auto;
 }
 
+picture.stars{
+    display: block;
+    position: relative;
+    top: 15px;
+    margin:0 auto;
+    width: 43%;
+}
+
+.stars img{
+    width: 100%;
+}
+
 /* Footer */
 
 footer{
